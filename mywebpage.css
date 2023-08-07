@@ -1,0 +1,84 @@
+body {
+    margin-left: 100px;
+    margin-right: 50px;
+    border-width: 25px;
+    border-radius: 50px;
+    background-color:whitesmoke;
+    color: black;
+    font-family: monospace;
+    padding-top: 5px;
+    transition: 0.5s:
+}
+#dan {
+    font-size: 35px;
+    color:black;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc,
+    0 3px 0 #ccc, 0 4px 0 #ccc,
+    0 5px 0 #ccc, 0 6px 0 #ccc,
+    0 7px 0 #ccc, 0 8px 0 #ccc,
+    0 9px 0 #ccc, 0 10px 0 #ccc,
+    0 11px 0 #ccc, 0 12px 0 #ccc,
+    0 20px 30px rgba(0, 0, 0, 0.5);
+}
+#dan1 {
+    font-size: 70px;
+    color:blue;
+    text-decoration-color: rgba(0, 0, 0, 0.377);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc,
+    0 3px 0 #ccc, 0 4px 0 #ccc,
+    0 5px 0 #ccc, 0 6px 0 #ccc,
+    0 7px 0 #ccc, 0 8px 0 #ccc,
+    0 9px 0 #ccc, 0 10px 0 #ccc,
+    0 11px 0 #ccc, 0 12px 0 #ccc,
+    0 20px 30px rgba(0, 0, 0, 0.5);
+}
+#dan3 {
+    font-weight: lighter;
+    font-family:monospace;
+    font-size: 20px;
+}
+.danimage img {
+    max-width: 80%;
+    max-height: 80%;
+    padding: 50px;
+    font-family:;
+}
+.container {
+    display: grid;
+    align-items:center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+} 
+.project {
+    background-color: black;
+    max-width: 100%;
+    columns: 2fr;
+}
+.dan4 {
+font-size: 40px;
+    color:blue;
+    text-decoration-color: rgba(0, 0, 0, 0.377);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc,
+    0 3px 0 #ccc, 0 4px 0 #ccc,
+    0 5px 0 #ccc, 0 6px 0 #ccc,
+    0 7px 0 #ccc, 0 8px 0 #ccc,
+    0 9px 0 #ccc, 0 10px 0 #ccc,
+    0 11px 0 #ccc, 0 12px 0 #ccc,
+    0 20px 30px rgba(0, 0, 0, 0.5);
+}
+.dan5 {
+    font-size: 20px;
+    text-align: center;
+}
+.dan7 {
+    font-size: 20px;
+}
+.dan8 {
+    color:blue
+}
+.dan6 {
+    font-size: 20px;
+    text-align: center;
+}
